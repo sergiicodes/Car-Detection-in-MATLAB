@@ -4,4 +4,4 @@ One can think of mixture models as generalizing k-means clustering to incorporat
 
 An essential use of this model is in analyzing traffic patterns. For instance, detection is the first step before performing more sophisticated tasks, such as tracking or categorizing vehicles by type. This example shows how foreground and blob analysis can detect and count cars in a video sequence, assuming the camera is stationary. The model focuses on detecting objects.
 
-I understand MATLAB is a proprietary language/environment, so attached to this GitHub module is a video of the code in the IDE and the programming being run. 
+Also attached are the pop-up windows that are from running the program. 
